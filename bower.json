@@ -1,0 +1,19 @@
+{
+  "name": "MAKE App",
+  "description": "MAKE Black Forest",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "html5-boilerplate": "~4.3.0",
+    "ionic" : "1.0.0-beta.12",
+    "angular-filter" : "0.4.6",
+    "angular-translate" : "2.4.x",
+    "ngstorage" : "x.x.x"
+  }
+}
