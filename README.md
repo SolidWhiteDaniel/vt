@@ -1,3 +1,4 @@
 Make Remote Phonegap
 ==
-##Phonegap v. 3.5.0
+###Phonegap Version: 3.5.0
+
