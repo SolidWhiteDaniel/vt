@@ -23,4 +23,4 @@ phonegap build android
 phonegap build ios
 ```
 
-
+Wenn das erstellen der beiden Platformen erfolgreich war, befinden sich im Verz. platforms jeweils ein ios & android Verz. Diese Verzeichnisse können dann in die entsprechenden Entwicklungsumgebungen importiert werden wie z.B. android in eclipse.
