@@ -8,10 +8,13 @@ Make Remote Phonegap
  
 ==
 
-#### Android & iOS Build
-Zum builden des Android Platform wird die Phonegap Kommandozeile 'build' benutzt
+#### Schnellstart
+Nach den Klonen des Repository in das Projekt Verz. navigieren. 
 ```
 phonegap build android
+```
+```
+phonegap build ios
 ```
 
 
