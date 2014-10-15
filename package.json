@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "description": "Visual Translator",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/SolidWhiteDaniel/vt",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
