@@ -9,10 +9,16 @@ Make Remote Phonegap
 ==
 
 #### Schnellstart
-Nach den Klonen des Repository in das Projekt Verz. navigieren. 
+Nach den Klonen des Repository in das Projekt Verz. navigieren und mit den Phonegap cli die Builds für Android und iOs erstellen
+
+- Android:
+
 ```
 phonegap build android
 ```
+
+- iOS:
+
 ```
 phonegap build ios
 ```
