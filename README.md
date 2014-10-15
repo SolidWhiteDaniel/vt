@@ -8,7 +8,10 @@ Make Remote Phonegap
  
 ==
 
-#### iOS & Android Build
-
+#### Android & iOS Build
+Zum builden des Android Platform wird die Phonegap Kommandozeile 'build' benutzt
+```
+phonegap build android
+```
 
 
